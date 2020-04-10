@@ -11,16 +11,14 @@ const projects = []
 // recebe 2 parametros 1º a rota/RECURSO 2º uma funçao
 app.get('/projects',(request, response) => {
   
-  // const query = request.query;
-  // console.log(query)
+  const {profissao} = request.query;
 
-  // const {title, owner} = request.query;
-
-  // console.log(title)
-	// console.log(owner)
+  const result = profissao
+    ? projects.filter(f => f.profissao.includes(profissao))
+    : projects
 
   // sempre o return com um response
-  return response.json(projects)
+  return response.json(result)
 })
 
 // adicionando um projeto

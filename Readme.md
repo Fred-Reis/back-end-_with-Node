@@ -1,7 +1,8 @@
 <div align="center" >
-  <img style="width: 100px" alt="NodeJS" src="src/assets/node.png"/>
+  <img style="width: 100px; resize: contain" alt="NodeJS" src="src/assets/node.png"/>
 </div>
----
+
+<hr/>
 
 <h3 align="center">Project With NodeJS
 </h3>

@@ -4,8 +4,8 @@
 
 <hr/>
 
-<h3 align="center">Project With NodeJS
-</h3>
+<h1 align="center">Project With NodeJS
+</h1>
 
 <blockquote align="center">
 This project be a part of bootcamp: <a href="https://rocketseat.com.br/gostack">GoStack by RocketSeat</a> 
@@ -24,7 +24,8 @@ This project be a part of bootcamp: <a href="https://rocketseat.com.br/gostack">
 
   <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
 
-  <a href="https://www.codacy.com/manual/Fred-Reis/back-end-with-Node_GoStack-v2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/back-end-with-Node_GoStack-v2&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/1fcdf658baaa42fcad17f3246825ec9a"/></a>
+  <a href="https://www.codacy.com/manual/Fred-Reis/back-end-with-Node_GoStack-v2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/back-end-with-Node_GoStack-v2&amp;utm_campaign=Badge_Grade">
+    <img src="https://api.codacy.com/project/badge/Grade/1fcdf658baaa42fcad17f3246825ec9a"/></a>
 
 </p>
 
@@ -77,7 +78,7 @@ pod install
 
 ## Thanks for you interest! 😃😍
 
-___"Stay hungry stay foolish!"___
+_"Stay hungry stay foolish!"_
 ---
 
 <h3 align="center">
@@ -86,8 +87,10 @@ Autor: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a>
 
 <p align="center">
 
-  <a alt="Frederico Reis" href="https://www.linkedin.com/in/frederico-reis-dev/"><img src="https://img.shields.io/badge/LinkedIn-Frederico_Reis-0077B5?logo=linkedin"/></a>
-  <a alt="Frederico Reis" href="https://github.com/Fred-Reis "><img src="https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github"/></a>
+  <a alt="Frederico Reis" href="https://www.linkedin.com/in/frederico-reis-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Frederico_Reis-0077B5?logo=linkedin"/></a>
+  <a alt="Frederico Reis" href="https://github.com/Fred-Reis ">
+  <img src="https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github"/></a>
 
 </p>
 

@@ -1,5 +1,5 @@
 <div align="center" >
-  <img style="width: 100px; resize: contain" alt="NodeJS" src="src/assets/node.png"/>
+  <img alt="NodeJS" src="src/assets/node.png"/>
 </div>
 
 <hr/>

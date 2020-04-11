@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <img style="width: 300px" alt="NodeJS" src="src/assets/node.png"/>
+  <img style="width: 100px" alt="NodeJS" src="src/assets/node.png"/>
 </h1>
 
 <h3 align="center">Project With NodeJS

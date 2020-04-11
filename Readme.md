@@ -1,6 +1,7 @@
-<h1 align="center" >
+<div align="center" >
   <img style="width: 100px" alt="NodeJS" src="src/assets/node.png"/>
-</h1>
+</div>
+---
 
 <h3 align="center">Project With NodeJS
 </h3>
@@ -11,6 +12,8 @@ This project be a part of bootcamp: <a href="https://rocketseat.com.br/gostack">
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fred-Reis/back-end-with-Node_GoStack-v2">
+
+
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fred-Reis/back-end-with-Node_GoStack-v2">
   

@@ -15,6 +15,8 @@
     </a> 
 </blockquote>
 
+<br/>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fred-Reis/back-end-with-Node_GoStack-v2">
 
@@ -31,6 +33,7 @@
 
 </p>
 
+<br/>
 
 ## 💡 About
 
@@ -79,13 +82,13 @@ pod install
 
 <br/>
 
-<h3 align="center">
-  😍 Thanks for you interest! 😍
-</h3>
+<h4>
+  😍 Thanks for you interest! 
+</h4>
 
-<h3 align="center">
+<h4 align="center">
   "Stay hungry stay foolish!"
-</h3>
+</h4>
 
 <br/>
 

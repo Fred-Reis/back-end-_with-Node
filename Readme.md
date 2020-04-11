@@ -4,17 +4,19 @@
 
 <hr/>
 
-<h1 align="center">Project With NodeJS
+<h1 align="center">
+  Project With NodeJS
 </h1>
 
 <blockquote align="center">
-This project be a part of bootcamp: <a href="https://rocketseat.com.br/gostack">GoStack by RocketSeat</a> 
+  This project be a part of bootcamp: 
+    <a href="https://rocketseat.com.br/gostack">
+      GoStack by RocketSeat
+    </a> 
 </blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fred-Reis/back-end-with-Node_GoStack-v2">
-
-
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fred-Reis/back-end-with-Node_GoStack-v2">
   
@@ -75,10 +77,18 @@ pod install
 😃 Now run the project in your device or favorite emulator and...
 **BE HAPPY**.
 
+<br/>
 
-## Thanks for you interest! 😃😍
+<h3 align="center">
+  😍 Thanks for you interest! 😍
+</h3>
 
-_"Stay hungry stay foolish!"_
+<h3 align="center">
+  "Stay hungry stay foolish!"
+</h3>
+
+<br/>
+
 ---
 
 <h3 align="center">

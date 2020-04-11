@@ -85,6 +85,8 @@ pod install
   😍 Thanks for you interest! 
 </h4>
 
+<br/>
+
 <h4 align="center">
   "Stay hungry stay foolish!"
 </h4>

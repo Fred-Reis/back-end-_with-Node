@@ -1,4 +1,4 @@
-<h1 align="center" style="width: 300px">
+<h1 align="center" style="width: 100px">
   <img alt="NodeJS" src="src/assets/node.png"/>
 </h1>
 

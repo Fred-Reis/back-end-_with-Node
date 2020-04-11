@@ -18,16 +18,17 @@
 <br/>
 
 <p align="center">
+
+  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.13.1-339933?logo=node.js">
+
+  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fred-Reis/back-end-with-Node_GoStack-v2">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fred-Reis/back-end-with-Node_GoStack-v2">
   
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Fred-Reis/back-end-with-Node_GoStack-v2">
   
-  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.13.1-339933?logo=node.js">
-
-  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
-
   <a href="https://www.codacy.com/manual/Fred-Reis/back-end-with-Node_GoStack-v2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/back-end-with-Node_GoStack-v2&amp;utm_campaign=Badge_Grade">
     <img src="https://api.codacy.com/project/badge/Grade/1fcdf658baaa42fcad17f3246825ec9a"/></a>
 

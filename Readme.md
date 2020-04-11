@@ -81,8 +81,6 @@ pod install
 😃 Now run the project in your device or favorite emulator and...
 **BE HAPPY**.
 
-<br/>
-
 <h4>
   😍 Thanks for you interest! 
 </h4>

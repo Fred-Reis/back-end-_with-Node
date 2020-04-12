@@ -1,8 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const {uuid, isUuid} = require('uuidv4')
 
 const app = express();
 
+app.use(cors());
 // esse comando é para receber o json no body
 app.use(express.json())
 
@@ -47,6 +49,8 @@ app.get('/projects',(request, response) => {
 
   // sempre o return com um response
   return response.json(result)
+  console.log(profissao)
+  console.log(result)
 })
 
 // adicionando um projeto
@@ -58,7 +62,6 @@ app.post('/projects',(request,response) => {
   const project = {id:uuid(), nome, profissao}
 
   projects.push(project)
-
 
   return response.json(project)
 })

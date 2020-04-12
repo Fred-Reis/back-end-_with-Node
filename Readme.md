@@ -47,7 +47,7 @@ On this project was explaned some concepts of Back-end with NodeJS and others �
 * Request Params;
 * Middlewares;
 
-## 🔥 Functionalities
+## 🔥 Functionalities:
 
 On this simple project was create 4 types of routes one of each method:  
 * POST
